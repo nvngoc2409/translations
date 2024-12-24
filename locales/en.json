@@ -1349,16 +1349,5 @@
     "code_not_match": "These codes \"%@\" do not match with our records",
     "code_valid_msg": "These codes do not match with our records",
     "search_country": "Enter code, country name...",
-    "email_valid_msg": "Email format isn't correct",
-    "customer_display_ios": "Customer Display Mode →",
-    "manage_sale": "Manage In-Person Sales",
-    "analyse": "Analyse",
-    "sale_report": "Sales Reports at",
-    "accept": "Accept",
-    "credit_card": "Credit Card Payments",
-    "no_set_up": "No Set Up Fees,",
-    "effortlessly": "Effortlessly",
-    "fingertips": "your Fingertips",
-    "more": "and More",
-    "only_pay": "Only Pay Per Transaction"
+    "email_valid_msg": "Email format isn't correct"
 }
